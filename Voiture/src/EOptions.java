@@ -1,0 +1,3 @@
+enum EOptions {
+    CLIMATISATION, BOITEAUTO, RADIO
+}
